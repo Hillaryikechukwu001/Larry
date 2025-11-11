@@ -90,7 +90,7 @@ body{
 }
 
 .text-sub_container-ii{
-    width: 400px;
+    width: 410px;
     padding: 5px;
     height: 200px;
     overflow: hidden;
@@ -99,7 +99,7 @@ body{
 }
 .text-second_column{
     font-size: 3.3rem;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
 }
 .text-btn{
@@ -140,7 +140,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color:cornsilk;
+    background-color:rgb(208, 196, 196);
 
 }
 
@@ -242,7 +242,7 @@ body{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: red;
+
 
 }
 
@@ -272,7 +272,10 @@ body{
     height: 400px;
     display: flex;
     justify-content: center;
-    background-color: cornsilk;
+    background-image: url(subpics.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
 
 }
 
@@ -316,7 +319,6 @@ body{
     border-radius: 20px;
     padding: 15px;
     
-    
 }
 
 .section1-A{
@@ -327,7 +329,6 @@ body{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
     
 }
 
@@ -381,6 +382,12 @@ body{
 .text4-B{
     margin: 2px;
     font-size: 10px;
+}
+
+.section-4{
+    width: 100%;
+    height: 100px;
+    border: 2px solid red;
 }
 
 
