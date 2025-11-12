@@ -194,11 +194,8 @@ body{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    
 
 }
-
-
 
 .first-container_child{
     width: 50%;
@@ -208,7 +205,6 @@ body{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    
     
 }
 
@@ -226,6 +222,7 @@ body{
 }
 
 .text-design1{
+
     position: relative;
     
 }
@@ -242,7 +239,6 @@ body{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
 
 }
 
